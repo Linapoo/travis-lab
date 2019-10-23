@@ -1,6 +1,6 @@
 import unittest
 
-from sequence import sequence
+from sequence import Sequence
 
 class SequenceTestCase(unittest.TestCase):
     
